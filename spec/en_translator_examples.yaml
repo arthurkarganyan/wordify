@@ -1,0 +1,40 @@
+0: zero
+1: one
+4: four
+-13: negative thirteen
+13: thirteen
+20: twenty
+26: twenty-six
+33: thirty-three
+47: forty-seven
+51: fifty-one
+62: sixty-two
+73: seventy-three
+88: eighty-eight
+99: ninety-nine
+103: one hundred three
+200: two hundred
+347: three hundred forty-seven
+481: four hundred eighty-one
+530: five hundred thirty
+653: six hundred fifty-three
+711: seven hundred eleven
+822: eight hundred twenty-two
+992: nine hundred ninety-two
+1000: one thousand
+-1000: negative one thousand
+2000: two thousand
+11000: eleven thousand
+21000: twenty-one thousand
+1003: one thousand three
+1380: one thousand three hundred eighty
+3941: three thousand nine hundred forty-one
+4010: four thousand ten
+11980: eleven thousand nine hundred eighty
+921561: nine hundred twenty-one thousand five hundred sixty-one
+1000000: one million
+12000000: twelve million
+1140283: one million one hundred forty thousand two hundred eighty-three
+5217402: five million two hundred seventeen thousand four hundred two
+25000009: twenty-five million nine
+800100000: eight hundred million one hundred thousand
